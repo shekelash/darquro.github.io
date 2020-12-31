@@ -91,7 +91,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I'm skilled at iOS Application development, Web Application development. *Swift/Objective-C/JavaScript/Java/C#*"
+  bio              : "I'm skilled at iOS Application Development, Web Application Development. *Swift/Objective-C/JavaScript/Java/C#*"
   location         : "Tokyo, Japan"
   links:
     - label: "Twitter"
