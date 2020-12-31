@@ -323,3 +323,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# fix warning https://github.com/github/pages-gem/issues/399
+github: [metadata]
