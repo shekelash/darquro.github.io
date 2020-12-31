@@ -106,6 +106,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yuki-kuroda-85b417160/"
+    - label: "Wantedly"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.wantedly.com/id/darquro"
 
 
 # Site Footer
@@ -123,7 +126,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yuki-kuroda-85b417160/"
-
+    - label: "Wantedly"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.wantedly.com/id/darquro"
 
 # Reading Files
 include:

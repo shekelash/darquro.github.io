@@ -20,13 +20,6 @@ feature_row:
     url: "https://qiita.com/darquro"
     btn_class: "btn--primary"
     btn_label: "Read"
-  - image_path: /assets/images/wantedly.jpg
-    alt: "Wantedly"
-    title: "Wantedly"
-    excerpt: "Profile and articles."
-    url: "https://www.wantedly.com/id/darquro"
-    btn_class: "btn--primary"
-    btn_label: "Read"
 ---
 
 {% include feature_row %}
