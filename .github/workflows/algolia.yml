@@ -14,8 +14,11 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-ruby@v1
       
-      - name: Algolia Upload
+      - name: bundler install
         run: gem install bundler
+
+      - name: bundler install
+        run: bundle install
 
       - name: Algolia Upload
         run: ALGOLIA_API_KEY=${{ secrets.ALGOLIA_ADMIN_API_KEY }} bundle exec jekyll algolia
