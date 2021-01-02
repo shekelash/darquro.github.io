@@ -1,0 +1,17 @@
+name: Algolia
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Algolia Upload
+        run: ALGOLIA_API_KEY=${{ secrets.ALGOLIA_ADMIN_API_KEY }} bundle exec jekyll algolia
