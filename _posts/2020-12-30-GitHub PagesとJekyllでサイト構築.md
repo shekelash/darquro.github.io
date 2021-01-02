@@ -1,7 +1,7 @@
 ---
 title: "GitHub PagesとJekyllでサイト構築"
 categories:
-  - blog
+  - 開発
 tags:
   - GitHub Pages
   - Jekyll
