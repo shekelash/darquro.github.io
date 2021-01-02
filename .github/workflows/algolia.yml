@@ -17,8 +17,8 @@ jobs:
       - name: bundler install
         run: gem install bundler
 
-      - name: bundler install
+      - name: gem install
         run: bundle install
 
-      - name: Algolia Upload
+      - name: algolia upload
         run: ALGOLIA_API_KEY=${{ secrets.ALGOLIA_ADMIN_API_KEY }} bundle exec jekyll algolia
