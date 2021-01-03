@@ -1,0 +1,6 @@
+---
+layout: null
+---
+User-Agent:*
+Disallow: /404
+Sitemap: {{ site.url }}/sitemap.xml
