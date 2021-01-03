@@ -54,7 +54,7 @@ algolia:
   search_only_api_key    : 94de3e883ce27caed4a17d0db24143c0 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
-    - sitemap/index.html
+    # - sitemap/index.html
 
 # SEO Related
 # google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
