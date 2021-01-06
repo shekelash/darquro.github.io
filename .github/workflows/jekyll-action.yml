@@ -19,6 +19,6 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-    - uses: xsalazar/jekyll-action
+    - uses: xsalazar/jekyll-action@master
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
