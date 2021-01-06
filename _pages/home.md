@@ -4,16 +4,16 @@ layout: single
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/header.webp
 feature_row:
-  - image_path: /assets/images/speakerdeck.jpg
+  - image_path: /assets/images/speakerdeck.webp
     alt: "Speaker Deck"
     title: "Speaker Deck"
     excerpt: "Past presentation materials."
     url: "https://speakerdeck.com/darquro"
     btn_class: "btn--primary"
     btn_label: "Read"
-  - image_path: /assets/images/qiita.jpg
+  - image_path: /assets/images/qiita.webp
     alt: "Qiita"
     title: "Qiita"
     excerpt: "Posted articles."
