@@ -293,6 +293,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-webp
 
 
 # Archives
