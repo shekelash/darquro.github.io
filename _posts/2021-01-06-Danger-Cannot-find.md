@@ -1,5 +1,5 @@
 ---
-title: "Dangerで "Cannot find a merge base between danger_base and danger_head" というエラーになった"
+title: "Dangerで 'Cannot find a merge base between danger_base and danger_head' というエラーになった"
 categories:
   - 開発
 tags:
