@@ -20,6 +20,13 @@ feature_row:
     url: "https://qiita.com/darquro"
     btn_class: "btn--primary"
     btn_label: "Read"
+  - image_path: /assets/images/note.webp
+    alt: "Note"
+    title: "Note"
+    excerpt: "Posted articles."
+    url: "https://note.com/darquro"
+    btn_class: "btn--primary"
+    btn_label: "Read"
 ---
 
 {% include feature_row %}
