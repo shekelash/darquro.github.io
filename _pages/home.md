@@ -1,7 +1,5 @@
 ---
 permalink: /
-layout: single
-author_profile: true
 classes: wide
 header:
   image: /assets/images/header.webp
