@@ -1,5 +1,5 @@
 ---
-title: "NO RULES RULES"
+title: "プロダクトマネジメントのすべて"
 categories:
   - 読書
 tags:
