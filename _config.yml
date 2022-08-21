@@ -49,9 +49,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : XPL1S574F8 # YOUR_APPLICATION_ID
-  index_name             : darquro.github.io # YOUR_INDEX_NAME
-  search_only_api_key    : 94de3e883ce27caed4a17d0db24143c0 # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : NPLNFIOGA9 # YOUR_APPLICATION_ID
+  index_name             : ensofsearch # YOUR_INDEX_NAME
+  search_only_api_key    : 004d32867d3eda8dd819a879c181d495 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
     # - sitemap/index.html
